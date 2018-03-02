@@ -1,0 +1,5 @@
+/* We are using anchor tag with the link as it is that which is used effectively. */
+
+form a {
+  margin-left: 5px;
+}
